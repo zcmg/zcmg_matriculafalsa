@@ -1,6 +1,6 @@
 **FiveM ESX Script**</br>
 
-Script que permite criar uma matricula falsa, ou seja substituir a sua matrícula por outra aleatória. É feito atrases de um item. Desenvolvido para ESX Legacy.
+Script que permite criar uma matricula falsa, ou seja substituir a sua matrícula por outra aleatória. É feito através de um item. Desenvolvido para ESX Legacy.
 Correr o SQL para a criação do item.
 
 **SQL:**</br>

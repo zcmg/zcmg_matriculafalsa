@@ -11,5 +11,5 @@ INSERT INTO `items` (`name`, `label`) VALUES ('matricula', 'Matrícula');
 Desenvolvido por: **zcmg#5307**</br>
 
 ## Dependências
--zcmg_notificacao
+-zcmg_notificacao</br>
 -zcmg_barra

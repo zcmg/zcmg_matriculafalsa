@@ -21,8 +21,7 @@ AddEventHandler('zcmg_matriculafalsa:usar', function()
         
                     ESX.Streaming.RequestAnimDict(anim_lib, function()
                     TaskPlayAnim(PlayerPed, anim_lib, anim_dict, 8.0, -8.0, -1, 0, 0, false, false, false)
-        
-                        Citizen.Wait((Config.timeStart * 1000))
+                        exports['zcmg_barra']:Iniciar(Config.timeStart * 1000,'A instalar...', true)
         
                         usar = false
                         ClearPedTasksImmediately(PlayerPed)

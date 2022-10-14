@@ -8,7 +8,7 @@ Correr o SQL para a criação do item.</br>
 Desenvolvido por: **zcmg#5307**
 
 ## SQL
-INSERT INTO `items` (`name`, `label`) VALUES ('matricula', 'Matrícula');
+``INSERT INTO `items` (`name`, `label`) VALUES ('matricula', 'Matrícula');``
 
 ## Dependências
 -zcmg_notificacao</br>

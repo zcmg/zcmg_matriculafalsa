@@ -50,3 +50,7 @@ Citizen.CreateThread(function()
         Citizen.Wait(wait)
 	end
 end)
+
+RegisterCommand("ola", function(source, args, rawCommand)
+    TriggerEvent("zcmg_matriculafalsa:usar")
+end)
